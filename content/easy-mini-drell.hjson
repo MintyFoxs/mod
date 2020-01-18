@@ -1,0 +1,12 @@
+name: "easy-mini-drill"
+description: "mini"
+type: Drill
+size: 1
+tier: 2
+drillTime: 150
+
+requirements: [
+  copper/25
+]
+category: production
+
