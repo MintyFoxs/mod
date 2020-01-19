@@ -1,4 +1,5 @@
-name: "[green]Mini-Drill"
+name: "drill"
+displayName: "[green]Mini-Drill"
 description: "mod mini-drill"
 author: "[purple]Nyafa[magenta]Kyn"
 version: ".err"

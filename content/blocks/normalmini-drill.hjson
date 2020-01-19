@@ -1,0 +1,21 @@
+name: normal mini-drill
+description: normal
+type: Drill
+size: 1
+tier: 4
+drillTime: 100
+consumes: {
+  power: 2
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  copper/25
+  lead/50
+  
+]
+category: production
+
